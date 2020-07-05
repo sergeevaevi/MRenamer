@@ -1,0 +1,16 @@
+﻿  MRenamer.cpp
+C:\Users\User1\Downloads\vcpkg-master\vcpkg-master\installed\x86-windows\include\taglib\tiostream.h(53,30): warning C4251: TagLib::FileName::m_name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\User1\Downloads\vcpkg-master\vcpkg-master\installed\x86-windows\include\taglib\tiostream.h(54,31): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(4449): message : см. объявление "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>"
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(128,46): warning C4129: &: неизвестная escape-последовательность
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(158,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(199,31): warning C4101: f: неиспользованная локальная переменная
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(225,31): warning C4101: f: неиспользованная локальная переменная
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(326,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(433,17): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(438,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(469,30): error C2660: NameForTAG: функция не принимает 0 аргументов
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(156,8): message : см. объявление "NameForTAG"
+C:\Users\User1\source\repos\MRenamer\MRenamer\MRenamer.cpp(470,46): error C2039: second: не является членом "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
